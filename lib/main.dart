@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         fontFamily: "OpenSans",
         primaryColor: Colors.purple,
       ),
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: true,
     );
   }
 }
